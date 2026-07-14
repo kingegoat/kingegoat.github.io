@@ -1,0 +1,84 @@
+{
+    "meta": {
+        "title": "Igor · Full-stack developer",
+        "description": "Igor (kingegoat) — full-stack developer. Landing pages, Telegram bots, FastAPI web services. Open source on GitHub."
+    },
+    "a11y": {
+        "skip": "Skip to content"
+    },
+    "nav": {
+        "about": "About",
+        "stack": "Stack",
+        "projects": "Projects",
+        "services": "Services",
+        "contact": "Contact",
+        "cta": "Get in touch"
+    },
+    "hero": {
+        "eyebrow": "Available for new work",
+        "line1": "Hi, I'm Igor —",
+        "line2": "full-stack developer.",
+        "sub": "I build landing pages, Telegram bots and FastAPI web services. Code is open source on GitHub.",
+        "cta1": "Get in touch",
+        "cta2": "GitHub"
+    },
+    "about": {
+        "eyebrow": "About",
+        "title": "Who I am",
+        "p1": "Full-stack developer. I build landing pages, Telegram bots and web services end-to-end — from idea and design to deployment.",
+        "p2": "I work solo, so communication is direct, deadlines are fixed, and all the code is mine — no subcontractors. Every production repo lives on GitHub — feel free to read, run, or fork."
+    },
+    "stack": {
+        "eyebrow": "Toolbelt",
+        "title": "Stack",
+        "lead": "Only what I actually ship in production."
+    },
+    "projects": {
+        "eyebrow": "Open source",
+        "title": "Projects",
+        "lead": "Code is open — inspect it, deploy it, fork it.",
+        "1": {
+            "title": "devcraft-studio",
+            "text": "Marketing site + FastAPI backend + Telegram bot on aiogram 3. One monorepo: Docker, tests, migrations."
+        },
+        "2": {
+            "title": "landing-template",
+            "text": "Universal landing page starter. Vanilla HTML/CSS/JS, mobile-first, dark/light themes, multi-language. Zero build."
+        }
+    },
+    "services": {
+        "eyebrow": "Services",
+        "title": "What I do",
+        "1": {
+            "title": "Landing pages",
+            "text": "Responsive layout, clean code, instant load. Mobile-first, cross-browser, SEO-ready.",
+            "f1": "Mobile-first responsive",
+            "f2": "Dark / light themes",
+            "f3": "Multi-language UI"
+        },
+        "2": {
+            "title": "Telegram bots",
+            "text": "From a simple FAQ bot to a full system with FSM, payments, CRM and admin panel. aiogram 3, webhooks.",
+            "f1": "aiogram 3 / FSM",
+            "f2": "Telegram Stars / payments",
+            "f3": "FastAPI integration"
+        },
+        "3": {
+            "title": "Web services & APIs",
+            "text": "FastAPI backend with REST, auth, PostgreSQL. Docker deploy, docs out of the box.",
+            "f1": "REST + async",
+            "f2": "JWT / OAuth2",
+            "f3": "Docker / Nginx"
+        }
+    },
+    "contact": {
+        "eyebrow": "Contact",
+        "title": "Get in touch",
+        "lead": "Telegram is the fastest. I usually reply within a couple of hours during business time.",
+        "source": "This site is open source"
+    },
+    "footer": {
+        "tagline": "Full-stack development. Open source.",
+        "built": "Built with vanilla HTML/CSS/JS — zero build step"
+    }
+}
