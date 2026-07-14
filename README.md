@@ -1,5 +1,16 @@
 # kingegoat · personal site
 
+<div align="center">
+
+[![Live](https://img.shields.io/badge/Live-kingegoat.github.io-brightgreen)](https://kingegoat.github.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![HTML5](https://img.shields.io/badge/HTML5-orange.svg)]()
+[![CSS3](https://img.shields.io/badge/CSS3-blue.svg)]()
+[![i18n](https://img.shields.io/badge/i18n-RU%20%7C%20EN-yellowgreen.svg)](i18n/)
+[![Zero deps](https://img.shields.io/badge/dependencies-0-success.svg)](#)
+
+</div>
+
 Personal portfolio site for [@kingegoat](https://github.com/kingegoat). Single-page, vanilla HTML/CSS/JS, multilingual (RU/EN), dark/light themes. **Zero build step.**
 
 Lives at `https://kingegoat.github.io` via GitHub Pages.
